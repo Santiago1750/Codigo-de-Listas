@@ -4,8 +4,8 @@ Dentro de este repositorio se mostrara un ejercicio con listas en C++
 
 ##Ejercicio de Listas
 
-#include <iostream>
-#include <list>
+  #include <iostream>
+  #include <list>
 using namespace std;
 int sum(const list<int>& lista){
 int suma = 0;
